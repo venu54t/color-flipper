@@ -1,0 +1,19 @@
+#color-changer {
+  background-color: black;
+  padding: 15px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 6px;
+  margin-bottom: 3px;
+}
+body {
+  margin: auto;
+  margin-top: calc(100vh - 30rem);
+  width: 50%;
+  align-items: center;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
